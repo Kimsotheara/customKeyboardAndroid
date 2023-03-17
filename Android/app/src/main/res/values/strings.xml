@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Keyboard</string>
+    <!-- Strings related to login -->
+    <string name="login">Login</string>
+    <string name="pinLogin">Pin Login</string>
+    <string name="logout">Logout</string>
+    <string name="lblPassword">Please enter PIN-Layout A (1234)</string>
+    <string name="lblPassword1">Please enter PIN-Layout B1 (1234)</string>
+    <string name="lblPassword2">Please enter PIN-Layout B3 (1234)</string>
+    <string name="prompt_email">Email</string>
+</resources>

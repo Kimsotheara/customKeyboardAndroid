@@ -1,0 +1,17 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.inputmethodservice.KeyboardView
+        android:id="@+id/keyboard"
+        android:layout_alignParentBottom="true"
+        android:keyTextColor="@android:color/white"
+        android:keyBackground="@drawable/key_background"
+        android:keyPreviewLayout="@layout/key_preview"
+        android:background="@color/keyboard_background_color"
+        android:layout_width="wrap_content"
+        android:visibility="invisible"
+        android:elevation="2dp"
+        android:keyPreviewHeight="50dp"
+        android:keyPreviewOffset="-5dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom|right"
+        />
+</merge>

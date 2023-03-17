@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="skdecoder">
+    <output-path>$PROJECT_DIR$/out/artifacts/skdecoder</output-path>
+    <root id="archive" name="skdecoder.jar">
+      <element id="module-output" name="SkDecode" />
+    </root>
+  </artifact>
+</component>

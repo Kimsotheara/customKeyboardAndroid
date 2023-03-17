@@ -1,0 +1,215 @@
+
+m	java:S127|"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾Âœ¹
+K
+java:S1066Ê"/Merge this if statement with the enclosing one.(·áñŞûÿÿÿÿ
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ËÄÓøÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æª•ûÿÿÿÿ
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚úÒ
+l	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ËÄÓøÿÿÿÿ
+l	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æª•ûÿÿÿÿ
+g	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚úÒ
+l	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ËÄÓøÿÿÿÿ
+l	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æª•ûÿÿÿÿ
+u
+java:S3008"ZRename this field "SHIFT_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÄúÿÿÿÿ
+v
+java:S3008"[Rename this field "DELETE_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¶¤²şÿÿÿÿ
+v
+java:S3008"[Rename this field "SYMBOL_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¦“İÿÿÿÿÿ
+w
+java:S3008"\Rename this field "REFRESH_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¯‘‰ûÿÿÿÿ
+u
+java:S3008 "ZRename this field "SPACE_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀˆÒâùÿÿÿÿ
+p
+java:S3008!"ZRename this field "ENTER_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÍÖè
+m
+java:S3008#"WRename this field "NUM_KEY_ROWS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÁù‰
+r
+java:S3008$"WRename this field "NUM_KEY_COLS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş›ä»øÿÿÿÿ
+F
+java:S1874"0Remove this use of "Keyboard"; it is deprecated.(éúŒ‹
+V	java:S125""<This block of commented-out lines of code should be removed.(Í¸‡Çûÿÿÿÿ
+D
+java:S1874S".Remove this use of "<init>"; it is deprecated.(š¤ÏŞ
+V	java:S125T"<This block of commented-out lines of code should be removed.(„ş¿Úüÿÿÿÿ
+J
+java:S2209W"5Change this instance-reference to a static reference.(¹¸2
+K
+java:S2209Z"5Change this instance-reference to a static reference.(ìúØ
+J
+java:S2209f"5Change this instance-reference to a static reference.(¹¸2
+B
+java:S1874­"+Remove this use of "Key"; it is deprecated.(Ø‚š¶
+F
+java:S1874­"/Remove this use of "getKeys"; it is deprecated.(Ø‚š¶
+R	java:S125®"<This block of commented-out lines of code should be removed.(¯òåŒ
+5
+java:S2119¯"Save and re-use this "Random".(Úíò
+I
+java:S1874°"-Remove this use of "label"; it is deprecated.(­’Òşÿÿÿÿ
+D
+java:S1874±"-Remove this use of "codes"; it is deprecated.(Áüü
+D
+java:S1874²"-Remove this use of "label"; it is deprecated.(ŠÜÈß
+D
+java:S1874²"-Remove this use of "label"; it is deprecated.(ŠÜÈß
+D
+java:S1874³"-Remove this use of "codes"; it is deprecated.(‰ëÇ´
+D
+java:S1874³"-Remove this use of "codes"; it is deprecated.(‰ëÇ´
+I
+java:S1874µ"-Remove this use of "label"; it is deprecated.(»ì±‰ûÿÿÿÿ
+I
+java:S1874¶"-Remove this use of "codes"; it is deprecated.(òÍš‡şÿÿÿÿ
+D
+java:S1874·"-Remove this use of "label"; it is deprecated.(–ïÅÅ
+D
+java:S1874¸"-Remove this use of "codes"; it is deprecated.(èô­
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(•ÄÏõıÿÿÿÿ
+f
+java:S1874Ş"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¡©‹úÿÿÿÿ
+B
+java:S1874à"+Remove this use of "Key"; it is deprecated.(Ø‚š¶
+F
+java:S1874à"/Remove this use of "getKeys"; it is deprecated.(Ø‚š¶
+E
+java:S1874â")Remove this use of "x"; it is deprecated.(÷Â…õøÿÿÿÿ
+I
+java:S1874ã"-Remove this use of "width"; it is deprecated.(à•¯‡ûÿÿÿÿ
+E
+java:S1874ä")Remove this use of "y"; it is deprecated.(ªà¥¦ûÿÿÿÿ
+J
+java:S1874å".Remove this use of "height"; it is deprecated.(Ş«¹•ıÿÿÿÿ
+a
+java:S1874î"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖòŒÆ
+P
+java:S1874ï"4Remove this use of "getKeyHeight"; it is deprecated.(¦¡Ñ¦ûÿÿÿÿ
+S
+java:S1854¬"7Remove this useless assignment to local variable "key".(Š¿å˜üÿÿÿÿ
+B
+java:S1874÷"+Remove this use of "Key"; it is deprecated.(Ø‚š¶
+F
+java:S1874÷"/Remove this use of "getKeys"; it is deprecated.(Ø‚š¶
+G
+java:S1874ˆ"+Remove this use of "Key"; it is deprecated.(ÏÇÏµúÿÿÿÿ
+I
+java:S1874˜"-Remove this use of "width"; it is deprecated.(ºÌ¬²ıÿÿÿÿ
+J
+java:S1874™".Remove this use of "height"; it is deprecated.(¢ü•íùÿÿÿÿ
+E
+java:S1874œ")Remove this use of "x"; it is deprecated.( ”Ùøÿÿÿÿ
+E
+java:S1874")Remove this use of "y"; it is deprecated.(Ìåßğşÿÿÿÿ
+G
+java:S1874¬"+Remove this use of "Key"; it is deprecated.(Š¿å˜üÿÿÿÿ
+D
+java:S1874®"-Remove this use of "label"; it is deprecated.(Şş—Š
+C
+java:S1874¯",Remove this use of "icon"; it is deprecated.(öå¦·
+N
+java:S1874°"2Remove this use of "repeatable"; it is deprecated.(ÒóÃæıÿÿÿÿ
+D
+java:S1874²"-Remove this use of "label"; it is deprecated.(³´×¸
+I
+java:S1874´"-Remove this use of "label"; it is deprecated.(íß¹ƒşÿÿÿÿ
+I
+java:S1874¶"-Remove this use of "label"; it is deprecated.(ÔÑç¦üÿÿÿÿ
+N
+java:S1874·"7Remove this use of "popupCharacters"; it is deprecated.(õæ ”
+C
+java:S1874¸",Remove this use of "icon"; it is deprecated.(ùî¾
+I
+java:S1874º"-Remove this use of "label"; it is deprecated.(ı¼å‹şÿÿÿÿ
+S
+java:S1874»"7Remove this use of "popupCharacters"; it is deprecated.(·±‚´ùÿÿÿÿ
+C
+java:S1874¼",Remove this use of "icon"; it is deprecated.(å‡ƒÔ
+B
+java:S1874Á"+Remove this use of "Key"; it is deprecated.(Ø‚š¶
+F
+java:S1874Á"/Remove this use of "getKeys"; it is deprecated.(Ø‚š¶
+G
+java:S1874Ò"+Remove this use of "Key"; it is deprecated.(ÏÇÏµúÿÿÿÿ
+I
+java:S1874â"-Remove this use of "width"; it is deprecated.(ºÌ¬²ıÿÿÿÿ
+J
+java:S1874ã".Remove this use of "height"; it is deprecated.(¢ü•íùÿÿÿÿ
+E
+java:S1874æ")Remove this use of "x"; it is deprecated.( ”Ùøÿÿÿÿ
+E
+java:S1874ç")Remove this use of "y"; it is deprecated.(Ìåßğşÿÿÿÿ
+G
+java:S1874ù"+Remove this use of "Key"; it is deprecated.(Š¿å˜üÿÿÿÿ
+W	java:S125ö"<This block of commented-out lines of code should be removed.(ĞÈ„ƒüÿÿÿÿ
+D
+java:S1874ú"-Remove this use of "label"; it is deprecated.(Şş—Š
+H
+java:S1874û",Remove this use of "icon"; it is deprecated.(Ú™Ë…ûÿÿÿÿ
+D
+java:S1874ı"-Remove this use of "label"; it is deprecated.(Şş—Š
+C
+java:S1874ş",Remove this use of "icon"; it is deprecated.(öå¦·
+N
+java:S1874ÿ"2Remove this use of "repeatable"; it is deprecated.(ÒóÃæıÿÿÿÿ
+D
+java:S1874"-Remove this use of "label"; it is deprecated.(³´×¸
+I
+java:S1874ƒ"-Remove this use of "label"; it is deprecated.(íß¹ƒşÿÿÿÿ
+I
+java:S1874…"-Remove this use of "label"; it is deprecated.(ÔÑç¦üÿÿÿÿ
+C
+java:S1874†",Remove this use of "icon"; it is deprecated.(ùî¾
+I
+java:S1874ˆ"-Remove this use of "label"; it is deprecated.(ı¼å‹şÿÿÿÿ
+C
+java:S1874‰",Remove this use of "icon"; it is deprecated.(å‡ƒÔ
+B
+java:S1874"+Remove this use of "Key"; it is deprecated.(Ø‚š¶
+F
+java:S1874"/Remove this use of "getKeys"; it is deprecated.(Ø‚š¶
+G
+java:S1874"+Remove this use of "Key"; it is deprecated.(ÏÇÏµúÿÿÿÿ
+I
+java:S1874¢"-Remove this use of "width"; it is deprecated.(ºÌ¬²ıÿÿÿÿ
+J
+java:S1874£".Remove this use of "height"; it is deprecated.(¢ü•íùÿÿÿÿ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(úÚçÈ
+E
+java:S1874¦")Remove this use of "x"; it is deprecated.( ”Ùøÿÿÿÿ
+E
+java:S1874§")Remove this use of "y"; it is deprecated.(Ìåßğşÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(…ƒ¦ıÿÿÿÿ
+B
+java:S1874¹"+Remove this use of "Key"; it is deprecated.(Ææµ²
+W	java:S125¶"<This block of commented-out lines of code should be removed.(ĞÈ„ƒüÿÿÿÿ
+D
+java:S1874º"-Remove this use of "label"; it is deprecated.(Şş—Š
+C
+java:S1874»",Remove this use of "icon"; it is deprecated.(öå¦·
+N
+java:S1874¼"2Remove this use of "repeatable"; it is deprecated.(ÒóÃæıÿÿÿÿ
+I
+java:S1874¾"-Remove this use of "label"; it is deprecated.(ÔÑç¦üÿÿÿÿ
+C
+java:S1874¿",Remove this use of "icon"; it is deprecated.(ùî¾
+I
+java:S1874Â"-Remove this use of "label"; it is deprecated.(ı¼å‹şÿÿÿÿ
+C
+java:S1874Ã",Remove this use of "icon"; it is deprecated.(å‡ƒÔ
+B
+java:S1874È"+Remove this use of "Key"; it is deprecated.(œ«›ø
+I
+java:S1874Ê"-Remove this use of "label"; it is deprecated.(·áñŞûÿÿÿÿ
+H
+java:S1874Ì",Remove this use of "icon"; it is deprecated.(Ô«˜øÿÿÿÿ
+D
+java:S1874Î"-Remove this use of "label"; it is deprecated.(Şş—Š
+E
+java:S1874Ï")Remove this use of "x"; it is deprecated.(ëà§ ıÿÿÿÿ
+E
+java:S1874Ï")Remove this use of "x"; it is deprecated.(ëà§ ıÿÿÿÿ
+I
+java:S1874Ï"-Remove this use of "width"; it is deprecated.(ëà§ ıÿÿÿÿ
+I
+java:S1874Ğ"-Remove this use of "width"; it is deprecated.(†îœ»øÿÿÿÿ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(Ú™ñê

@@ -1,0 +1,3 @@
+rootProject.name='SecureKeyboard'
+include ':app'
+include ':securekeyboard'
